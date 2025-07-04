@@ -1,4 +1,10 @@
 hi  i am learning the git hub nad its function and features .
 this is awson toll use industry to collaborate the people in the sence of working on the project and many more.
  letes begin .
+again we are here to commit the change sinthe file learn01.txt
+  i am learning
+
+  here i have learned that the 
+  git is version control system where the developer collaborate each other and commit he changes and furthet 
+  push the project to the remote remote repository
 
